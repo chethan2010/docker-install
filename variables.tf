@@ -12,7 +12,7 @@
 
     variable "security_group_ids" {
     type = list
-    default = ["sg-0bf7eae1971a8cf1c"] #replace with your SG ID.
+    default = ["sg-0e1628eed4bd446a7"] #replace with your SG ID.
     }
 
    
